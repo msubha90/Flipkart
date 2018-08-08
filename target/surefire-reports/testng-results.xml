@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="161606" started-at="2018-08-08T10:18:59Z" finished-at="2018-08-08T10:21:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="161606" started-at="2018-08-08T10:18:59Z" finished-at="2018-08-08T10:21:40Z">
+      <class name="com.flipkart.bigbillionday.SSS">
+        <test-method status="PASS" signature="unameTest(java.lang.String)[pri:0, instance:com.flipkart.bigbillionday.SSS@15435c]" name="unameTest" duration-ms="39375" started-at="2018-08-08T10:18:59Z" data-provider="login" finished-at="2018-08-08T10:19:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[un]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unameTest -->
+        <test-method status="PASS" signature="unameTest(java.lang.String)[pri:0, instance:com.flipkart.bigbillionday.SSS@15435c]" name="unameTest" duration-ms="39932" started-at="2018-08-08T10:19:39Z" data-provider="login" finished-at="2018-08-08T10:20:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[monty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unameTest -->
+        <test-method status="PASS" signature="unameTest(java.lang.String)[pri:0, instance:com.flipkart.bigbillionday.SSS@15435c]" name="unameTest" duration-ms="41715" started-at="2018-08-08T10:20:19Z" data-provider="login" finished-at="2018-08-08T10:21:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[milu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unameTest -->
+        <test-method status="PASS" signature="unameTest(java.lang.String)[pri:0, instance:com.flipkart.bigbillionday.SSS@15435c]" name="unameTest" duration-ms="39836" started-at="2018-08-08T10:21:00Z" data-provider="login" finished-at="2018-08-08T10:21:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[papu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unameTest -->
+      </class> <!-- com.flipkart.bigbillionday.SSS -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
